@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0M/frdTyY9UWjdu4xdbHfyQoO7N7GUmUhGfqtTk5bmx+Hn85oPI7ICQJooeX1MXOlEIw/DGhoJ8IcOoV7rNeXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yung_\\OneDrive\\Desktop\\FinalLabAsync-master\\src\\TaskSchedulerVsSynchronizationContext.Core.3.1\\TaskSchedulerVsSynchronizationContext.Core.3.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yung_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\yung_\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\yung_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\yung_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

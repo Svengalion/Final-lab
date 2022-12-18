@@ -1,0 +1,15 @@
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext\bin\Debug\net7.0\TaskSchedulerVsSynchronizationContext.exe
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext\bin\Debug\net7.0\TaskSchedulerVsSynchronizationContext.deps.json
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext\bin\Debug\net7.0\TaskSchedulerVsSynchronizationContext.runtimeconfig.json
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext\bin\Debug\net7.0\TaskSchedulerVsSynchronizationContext.dll
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext\bin\Debug\net7.0\TaskSchedulerVsSynchronizationContext.pdb
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext\obj\Debug\net7.0\TaskSchedulerVsSynchronizationContext.csproj.AssemblyReference.cache
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext\obj\Debug\net7.0\TaskSchedulerVsSynchronizationContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext\obj\Debug\net7.0\TaskSchedulerVsSynchronizationContext.AssemblyInfoInputs.cache
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext\obj\Debug\net7.0\TaskSchedulerVsSynchronizationContext.AssemblyInfo.cs
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext\obj\Debug\net7.0\TaskSchedulerVsSynchronizationContext.csproj.CoreCompileInputs.cache
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext\obj\Debug\net7.0\TaskSchedulerVsSynchronizationContext.dll
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext\obj\Debug\net7.0\refint\TaskSchedulerVsSynchronizationContext.dll
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext\obj\Debug\net7.0\TaskSchedulerVsSynchronizationContext.pdb
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext\obj\Debug\net7.0\TaskSchedulerVsSynchronizationContext.genruntimeconfig.cache
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext\obj\Debug\net7.0\ref\TaskSchedulerVsSynchronizationContext.dll

@@ -1,0 +1,14 @@
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext.Core.3.1\bin\Debug\netcoreapp3.1\TaskSchedulerVsSynchronizationContext.Core.3.1.exe
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext.Core.3.1\bin\Debug\netcoreapp3.1\TaskSchedulerVsSynchronizationContext.Core.3.1.deps.json
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext.Core.3.1\bin\Debug\netcoreapp3.1\TaskSchedulerVsSynchronizationContext.Core.3.1.runtimeconfig.json
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext.Core.3.1\bin\Debug\netcoreapp3.1\TaskSchedulerVsSynchronizationContext.Core.3.1.runtimeconfig.dev.json
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext.Core.3.1\bin\Debug\netcoreapp3.1\TaskSchedulerVsSynchronizationContext.Core.3.1.dll
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext.Core.3.1\bin\Debug\netcoreapp3.1\TaskSchedulerVsSynchronizationContext.Core.3.1.pdb
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext.Core.3.1\obj\Debug\netcoreapp3.1\TaskSchedulerVsSynchronizationContext.Core.3.1.csproj.AssemblyReference.cache
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext.Core.3.1\obj\Debug\netcoreapp3.1\TaskSchedulerVsSynchronizationContext.Core.3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext.Core.3.1\obj\Debug\netcoreapp3.1\TaskSchedulerVsSynchronizationContext.Core.3.1.AssemblyInfoInputs.cache
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext.Core.3.1\obj\Debug\netcoreapp3.1\TaskSchedulerVsSynchronizationContext.Core.3.1.AssemblyInfo.cs
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext.Core.3.1\obj\Debug\netcoreapp3.1\TaskSchedulerVsSynchronizationContext.Core.3.1.csproj.CoreCompileInputs.cache
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext.Core.3.1\obj\Debug\netcoreapp3.1\TaskSchedulerVsSynchronizationContext.Core.3.1.dll
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext.Core.3.1\obj\Debug\netcoreapp3.1\TaskSchedulerVsSynchronizationContext.Core.3.1.pdb
+C:\Users\yung_\OneDrive\Desktop\FinalLabAsync-master\src\TaskSchedulerVsSynchronizationContext.Core.3.1\obj\Debug\netcoreapp3.1\TaskSchedulerVsSynchronizationContext.Core.3.1.genruntimeconfig.cache
