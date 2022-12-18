@@ -24,12 +24,13 @@ namespace TaskSchedulerVsSynchronizationContext
             WriteLine($"Method WorkAsync (task №{task.Id}) is completed in {Thread.CurrentThread.ManagedThreadId}");
         }
 
-        #region Singleton
+        #region Singleton 
         private static MinThreadTaskScheduler? _scheduler; //тут в общем ленивая инициализация, нам в падлу создавать объект сейчас поэтому создастся он при первом использовании
         private static MinThreadTaskScheduler GetScheduler => 
             _scheduler ??= new MinThreadTaskScheduler(); //короче вот эта тема(??=) присвает _scheduler new MinThreadTaskScheduler если _scheduler = null
 
-        #endregion
+        #endregion 
+        //паттерн такой, в нем есть один ровный кент от которого все зависят тут этого кента MinThreadTaskScheduler зовут, он на районе главный
 
         static async Task Main()
         {
@@ -53,7 +54,7 @@ namespace TaskSchedulerVsSynchronizationContext
             await WorkAsync(null); //параллельно выполняет WorkAsync
             await WorkAsync(null).ConfigureAwait(false); //не особо понял что это, но эта хрень улучшает производительность и исключает дэдлоки короче ПАМАГИТИ
 
-            ReadKey();
+            ReadKey(); //тупо ждет тык
         }
     }
 }
